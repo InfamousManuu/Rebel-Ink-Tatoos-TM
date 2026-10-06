@@ -1,0 +1,12 @@
+{
+  "name": "rebel-ink-tattoos",
+  "version": "1.0.0",
+  "description": "Rebel Ink Tattoos — custom tattoos, cover-ups, laser removal, paramedical",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
